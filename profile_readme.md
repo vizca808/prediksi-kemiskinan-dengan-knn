@@ -18,7 +18,27 @@
 
 ### 👨‍💻 About Me
 
-Information Systems professional with experience in data analysis, administration, and customer-facing roles. Skilled in SQL, Python, Google Data Studio, and data visualization, with the ability to manage and process information accurately and efficiently. Possesses strong communication, teamwork, and problem-solving abilities, with a passion for learning and professional growth.
+Information Systems professional with experience in data science, data analysis, administration, and customer-facing roles. Skilled in SQL, Python, Machine Learning, Google Data Studio, and interactive dashboard development, with the ability to manage and process information accurately and efficiently. Possesses strong communication, teamwork, and problem-solving abilities, with a passion for learning and professional growth.
+
+---
+
+### 📊 Project Focus & Domain Distribution
+
+```text
+Data Science       █████████████████████░░░░░░░░░   50% (5 Projects)
+Web Development    █████████████░░░░░░░░░░░░░░░░░   30% (3 Projects)
+Data Analytics     ██████████░░░░░░░░░░░░░░░░░░░░   20% (2 Projects)
+```
+
+<div align="center">
+
+| Domain | Repositories & Key Focus | Share |
+| :--- | :--- | :---: |
+| 🧠 **Data Science & Machine Learning** | [Analisis-Prediksi-Timbunan-Sampah](https://github.com/vizca808/Analisis-Prediksi-Timbunan-Sampah), [predicting-jakarta-pollution-ispu](https://github.com/vizca808/predicting-jakarta-pollution-ispu), [prediksi-kemiskinan-dengan-knn](https://github.com/vizca808/prediksi-kemiskinan-dengan-knn), [Causal-Inference](https://github.com/vizca808/Causal-Inference), [Personal-automated-knowledge](https://github.com/vizca808/Personal-automated-knowledge) | **50%** |
+| 🌐 **Web & Fullstack Dev** | [ficash-ai](https://github.com/vizca808/ficash-ai), [Data-Assistant](https://github.com/vizca808/Data-Assistant), [mmmmmmmm (Web Portfolio)](https://github.com/vizca808/mmmmmmmm) | **30%** |
+| 📈 **Data Analytics & BI** | [streamlit_manage_keuangan](https://github.com/vizca808/streamlit_manage_keuangan), [Sreamlit](https://github.com/vizca808/Sreamlit) | **20%** |
+
+</div>
 
 ---
 
@@ -26,9 +46,11 @@ Information Systems professional with experience in data analysis, administratio
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,nodejs,express,fastapi,html,css,git,github,docker,vercel,postgres,sqlite,vscode&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,postgres,sqlite,mysql,js,ts,react,nextjs,tailwind,fastapi,docker,git,github,vscode&perline=8" />
   </a>
 </div>
+
+---
 
 ### 🏆 Certifications & Training
 
@@ -49,11 +71,23 @@ Information Systems professional with experience in data analysis, administratio
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <div align="center">
-  <a href="https://github.com/vizca808"><img src="https://github-readme-stats.vercel.app/api?username=vizca808&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /></a>
-  <a href="https://github.com/vizca808"><img src="https://github-profile-trophy.vercel.app/?username=vizca808&theme=onedark&margin-w=15" alt="GitHub Trophies" /></a>
-  <a href="https://github.com/vizca808"><img src="https://github-readme-pinned-repos.vercel.app/api?username=vizca808&theme=tokyonight&hide_border=true" alt="Pinned Repos" /></a>
-  <a href="https://komarev.com/ghpvc/?username=vizca808"><img src="https://komarev.com/ghpvc/?username=vizca808&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" /></a>
+  <a href="https://github.com/vizca808">
+    <img src="https://github-readme-stats.vercel.app/api?username=vizca808&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/vizca808">
+    <img src="https://github-profile-trophy.vercel.app/?username=vizca808&theme=onedark&margin-w=15" alt="GitHub Trophies" />
+  </a>
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vizca808&theme=tokyonight" alt="Profile Details" /><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vizca808&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vizca808&theme=tokyonight" alt="Most Commit Language" /><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vizca808&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vizca808&theme=tokyonight" alt="Productive Time" />
+  <br/><br/>
+  <a href="https://komarev.com/ghpvc/?username=vizca808">
+    <img src="https://komarev.com/ghpvc/?username=vizca808&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
 </div>
