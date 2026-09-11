@@ -46,7 +46,7 @@ Data Analytics     ██████████░░░░░░░░░░�
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,postgres,sqlite,mysql,js,ts,react,nextjs,tailwind,fastapi,docker,git,github,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,nodejs,express,fastapi,html,css,git,github,docker,vercel,postgres,sqlite,vscode&perline=9" />
   </a>
 </div>
 
@@ -71,16 +71,9 @@ Data Analytics     ██████████░░░░░░░░░░�
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 📈 GitHub Profile Summary
 
 <div align="center">
-  <a href="https://github.com/vizca808">
-    <img src="https://github-readme-stats.vercel.app/api?username=vizca808&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/vizca808">
-    <img src="https://github-profile-trophy.vercel.app/?username=vizca808&theme=onedark&margin-w=15" alt="GitHub Trophies" />
-  </a>
-  <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vizca808&theme=tokyonight" alt="Profile Details" /><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vizca808&theme=tokyonight" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vizca808&theme=tokyonight" alt="Most Commit Language" /><br/>
